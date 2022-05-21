@@ -18,7 +18,7 @@ Telegram RoBot to Upload Links.
 https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 ```
 ```
-heroku/python
+heroku/python hello bot
 ```
 
 
